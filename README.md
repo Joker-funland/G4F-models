@@ -24,6 +24,12 @@ This tool provides a user-friendly way to see which models are currently availab
     -   Clone or download this repository.
     -   Open the `Models.html` file directly in a web browser that supports ES Modules (like Chrome, Firefox, Edge, Safari).
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Space-00/String/blob/main/I.png" alt="Description" width="250"/>
+</p>
+
 ## Technology Stack
 
 -   **HTML5:** For the core structure.
