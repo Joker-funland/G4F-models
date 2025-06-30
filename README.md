@@ -24,11 +24,13 @@ This tool provides a user-friendly way to see which models are currently availab
     -   Clone or download this repository.
     -   Open the `Models.html` file directly in a web browser that supports ES Modules (like Chrome, Firefox, Edge, Safari).
 
-## Screenshots
+## Screenshot 1
 
 <p align="center">
   <img src="https://github.com/Joker-funland/G4F-models/blob/main/Screenshots/1.jpg" alt="Description" width="600"/>
 </p>
+
+## Screenshot 2
 
 <p align="center">
   <img src="https://github.com/Joker-funland/G4F-models/blob/main/Screenshots/2.jpg" alt="Description" width="600"/>
