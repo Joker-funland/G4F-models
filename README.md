@@ -33,5 +33,5 @@ This tool provides a user-friendly way to see which models are currently availab
 
 ## Credits
 
--   This project was created by [Joker-funland](https://github.com/Joker-funland).
+-   This project was created by [Joker](https://github.com/Joker-funland)
 -   Powered by the awesome [G4F (GPT4Free)](https://github.com/xtekky/gpt4free) project.
