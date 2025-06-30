@@ -27,13 +27,13 @@ This tool provides a user-friendly way to see which models are currently availab
 ## Screenshot 1
 
 <p align="center">
-  <img src="https://github.com/Joker-funland/G4F-models/blob/main/Screenshots/1.jpg" alt="Description" width="600"/>
+  <img src="https://github.com/Joker-funland/G4F-models/blob/main/Screenshots/1.jpg" alt="Description" width="800"/>
 </p>
 
 ## Screenshot 2
 
 <p align="center">
-  <img src="https://github.com/Joker-funland/G4F-models/blob/main/Screenshots/2.jpg" alt="Description" width="600"/>
+  <img src="https://github.com/Joker-funland/G4F-models/blob/main/Screenshots/2.jpg" alt="Description" width="800"/>
 </p>
 
 ## Technology Stack
