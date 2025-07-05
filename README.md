@@ -21,8 +21,8 @@ This tool provides a user-friendly way to see which models are currently availab
 
 ## How to Use
  **Locally:**
-    -   Clone or download this repository.
-    -   Open the `Models.html` file directly in a web browser that supports ES Modules (like Chrome, Firefox, Edge, Safari).
+    1-   Copy or download `Models.html`
+    2-   Open the `Models.html` file directly in a web browser that supports ES Modules (like Chrome, Firefox, Edge, Safari)
 
 ## Screenshot 1
 
