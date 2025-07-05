@@ -20,7 +20,7 @@ This tool provides a user-friendly way to see which models are currently availab
 -   **Sorted & Searchable:** Models are sorted alphabetically for easy browsing.
 
 ## How to Use
- **Locally:**
+**Locally:**
  
 1-   Copy or download `Models.html`
     
